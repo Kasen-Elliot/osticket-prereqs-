@@ -160,21 +160,4 @@ This tutorial outlines the prerequisites and installation of the open-source hel
       <li><img src="https://github.com/ColtonTrauCC/osticket-prereqs/assets/147654000/f48259ba-ba8a-4bce-9cbe-a300903de8b2" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
       <li><a href = "http://localhost/osTicket/scp/login.php">Link to Help Desk Page</a></li>
       <li><a href = "http://localhost/osTicket/">Link to End Users Page</a></li>
-    </ul>
-  </ul>
-</p>
 
-<br />
-
-<h3>Clean Up</h3>
-
-<p>
-  <ul>
-    <li>Delete the <b>setup</b> folder inside your osTicket folder inside wwwroot (C:\inetpub\wwwroot\osTicket\setup)</li>
-    <li>Set the permissions of <b>ost-config.php</b> to "read only" (have only the Read and Read and Execute boxes checked)</li>
-  </ul>
-</p>
-
-<br />
-
-<h3 align = "right">Next Tutorial - <a href="https://github.com/ColtonTrauCC/post-install-config">osTicket - Post-Install Configuration</a></h3>
