@@ -118,9 +118,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <ul>
     <li>From the Installation Files, download and install <b>osTicket v1.15.8.zip</b></li>
     <li>Extract the <b>upload</b> folder from the zip file and copy the folder into the directory <b>C:\inetpub\wwwroot</b> in your VM</li>
-      <ul>
-        <li><img src="https://github.com/ColtonTrauCC/osticket-prereqs/assets/147654000/0f1b83b3-86df-450c-bd22-e9369fcacf0b" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
-      </ul>
     <li>Rename the upload folder we've copied into wwwroot to <b>osTicket</b>, then reload IIS Manager</li>
     <li>In IIS Manager, expand the connection <b>Sites</b> then <b>Default Web Site</b> to click and highlight <b>osTicket</b>. Then, navigate to <b>Browse Folder</b> and click on <b>Browser*.80 (http)</b></li>
     <li>The page for osTicket Installer should now pop up, if it does not, check your directories of your files and folders</li>
