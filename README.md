@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Environments and Technologies Used</h2>
 
 <ul>
-  <li>Microsoft Azure (Virtual Machines/Compute)</li>
+  <li>Microsoft Azure (Virtual Machines)</li>
   <li>Remote Desktop</li>
   <li>Internet Information Services (IIS)</li>
 </ul>
