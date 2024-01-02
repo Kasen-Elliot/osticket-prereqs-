@@ -74,7 +74,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <li>From the Installation Files, download <b>PHP Manager</b> (PHPManagerForIIS_V1.5.0.msi) and <b>Rewrite Module</b> (rewrite_amd64_en-US.msi) </li>
     <li>Create a Folder in your VM's C Drive and name it <b>PHP</b></li>
       <ul>
-        <li><img src="https://github.com/ColtonTrauCC/osticket-prereqs/assets/147654000/04098ba9-26d5-4291-9431-7d2fd3200fc4" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+        <li><img src="!https://github.com/Kasen-Elliot/osticket-prereqs-/assets/127895952/19fce899-a521-40bc-b8af-e484e9371540" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
       </ul>
     <li>From the Installation Files, download the zip file <b>PHP 7.3.8</b> (php-7.3.8-nts-Win32-VC15-x86.zip) then unzip the contents into PHP folder we've made (C:\ PHP)</li>
       <ul>
