@@ -79,7 +79,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <li>From the Installation Files, download the zip file <b>PHP 7.3.8</b> (php-7.3.8-nts-Win32-VC15-x86.zip) then unzip the contents into PHP folder we've made (C:\ PHP)</li>
       <ul>
         <li><b>NOTE:</b> If a warning sign appears in the downloading icon in your browser, it means the Microsoft Defender Smartscreen in your VM is preventing you from downloading the zip file. If this happens, navigate the file your downloads and click on <b>Keep</b></li>
-        <li><img src="https://github.com/ColtonTrauCC/osticket-prereqs/assets/147654000/2be3abda-6e52-44df-b253-ab4006c199cc" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+        <li><img src="https://github.com/Kasen-Elliot/osticket-prereqs-/assets/127895952/3603641f-c860-4177-9472-e81fda25694a" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
       </ul>
     <li>From the Installation Files, download and install <b>VC_redist.x86.exe</b></li>
     <li>From the Installation Files, download and install <b>MySQL 5.5.62</b> (mysql-5.5.62-win32.msi)</li>
