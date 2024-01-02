@@ -100,11 +100,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <li>Open <b>Internet Information Services (IIS) Manager</b> and run it as Administrator</li>
     <ul>
       <li><b>PHP Manager</b> and <b>URL Rewrite</b> should be found in our IIS Manager due to the PHP Manager and Rewrite Modules files we have downloaded initially </li>
-      <li><img src="https://github.com/ColtonTrauCC/osticket-prereqs/assets/147654000/8392f072-ba16-43db-898e-aa807c93d4f3" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/Kasen-Elliot/osticket-prereqs-/assets/127895952/b264f093-2267-4dd0-a451-d879e8bb0ea0" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
     </ul>
     <li>Go to <b>PHP Manager</b> and click on <b>Register new PHP Version</b>, set the directory to the <b>php-cgi</b> file found in the PHP folder we've set in C Drive (C:\PHP)</li>
     <ul>
-      <li><img src="https://github.com/ColtonTrauCC/osticket-prereqs/assets/147654000/640439ed-5a37-470d-9451-836176f74ff8" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/Kasen-Elliot/osticket-prereqs-/assets/127895952/aee8797b-729c-400e-a316-a6f7a9be889f" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
     </ul>
     <li>Optional but Recommened: Refresh the IIS Manager Server by going to <b>Actions</b> and under <b>Manage Server</b> click on <b>Restart</b></li>
   </ul>
@@ -122,7 +122,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <li>In IIS Manager, expand the connection <b>Sites</b> then <b>Default Web Site</b> to click and highlight <b>osTicket</b>. Then, navigate to <b>Browse Folder</b> and click on <b>Browser*.80 (http)</b></li>
     <li>The page for osTicket Installer should now pop up, if it does not, check your directories of your files and folders</li>
       <ul>
-        <li><img src="https://github.com/ColtonTrauCC/osticket-prereqs/assets/147654000/0e213a5c-e82c-4e1c-b187-b6e53aeb9af2" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+        <li><img src="https://github.com/Kasen-Elliot/osticket-prereqs-/assets/127895952/a15af79e-104b-4902-9c3d-c5c1062d475e" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
       </ul>
     <li>In IIS Manager, go to <b>osTicket</b> and click on <b>PHP Manager</b> and click on <b>Enable or disable extensions</b> and enable the following extensions</li>
       <ul>
@@ -141,9 +141,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <li>From the Installation Files, download and install <b>HeidiSQL</b></li>
       <ul>
         <li>Go through basic setup then launch HeidiSQL and create a New Session using the username "root" and password "Password1"</li>
-        <li><img src="https://github.com/ColtonTrauCC/osticket-prereqs/assets/147654000/e4be70d7-c458-4274-95bb-6f53f8ecde98" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+        <li><img src="https://github.com/Kasen-Elliot/osticket-prereqs-/assets/127895952/bc6539b2-fbad-4962-8e25-7f843b7ad79d" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
         <li>You should see this once connected</li>
-        <li><img src="https://github.com/ColtonTrauCC/osticket-prereqs/assets/147654000/e04f8a37-4c5c-49da-b16b-c882470f2cdb" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+        <li><img src="https://github.com/Kasen-Elliot/osticket-prereqs-/assets/127895952/769ebd72-878f-4205-81e9-0d6e714a7141" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
         <li>Create a Database and name it <b>osTicket</b></li>
       </ul>
     <li>Once connected, go back to osTicket Installer type in our username and password into the respected fields in Database Settings</li>
