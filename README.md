@@ -55,7 +55,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
       <ul>
         <li><b>Check these boxes in Turn Windows Features on or off</b></li>
         <li><img src="![image](https://github.com/Kasen-Elliot/osticket-prereqs-/assets/127895952/8e640343-bf9f-4beb-98c3-25a836e843eb)
-" height="50%" width="50%" alt="Disk Sanitization Steps"/></li>
+" height="50%" width="50%"
       </ul>
     <li>To confirm everything is set accordingly, go to your browser in your VM and type in <b>127.0.0.1</b>, it should load the page to Internet Information Services</li>
       <ul>
