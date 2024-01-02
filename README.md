@@ -58,7 +58,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
       </ul>
     <li>To confirm everything is set accordingly, go to your browser in your VM and type in <b>127.0.0.1</b>, it should load the page to Internet Information Services</li>
       <ul>
-        <li><img src="https://github.com/ColtonTrauCC/osticket-prereqs/assets/147654000/b6fdbb5f-73c6-4aaf-ac8c-3e9690303d7b" height="50%" width="50%" alt="Disk Sanitization Steps"/></li>
+        <li><img src="https://github.com/Kasen-Elliot/osticket-prereqs-/assets/127895952/71217cf0-2e60-48f2-ae86-e58fb5f008de" height="50%" width="50%" alt="Disk Sanitization Steps"/></li>
       </ul>
   </ul>
 </p>
