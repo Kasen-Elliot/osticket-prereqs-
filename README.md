@@ -54,7 +54,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <li>Before closing, make sure the boxes under <b>Common HTTP Features</b> in World Wide Web Services are checked.</li>
       <ul>
         <li><b>Check these boxes in Turn Windows Features on or off</b></li>
-        <li><img src="[https://imgur.com/a/bOdyrTa](https://imgur.com/a/bOdyrTa)" height="50%" width="50%" alt="Disk Sanitization Steps"/></li>
+        <li><img src="https://imgur.com/a/bOdyrTa" height="50%" width="50%" alt="Disk Sanitization Steps"/></li>
       </ul>
     <li>To confirm everything is set accordingly, go to your browser in your VM and type in <b>127.0.0.1</b>, it should load the page to Internet Information Services</li>
       <ul>
